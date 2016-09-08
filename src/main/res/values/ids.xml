@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="side1" type="id">side1</item>
+    <item name="side1_text" type="id">side1_text</item>
+    <item name="side2" type="id">side2</item>
+    <item name="side2_text" type="id">side2_text</item>
+    <item name="list" type="id">list</item>
+    <item name="title" type="id">title</item>
+    <item name="titleView" type="id">titleView</item>
+    <item name="back_btn" type="id">back_btn</item>
+    <item name="edit_btn" type="id">edit_btn</item>
+    <item name="delete_btn" type="id">delete_btn</item>
+    <item name="back_arrow" type="id">back_arrow</item>
+    <item name="number" type="id">number</item>
+</resources>
